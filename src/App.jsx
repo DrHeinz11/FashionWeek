@@ -1,6 +1,10 @@
-
+import Cta  from "./components/Cta";
 function App() {
-  return <div>esto es una prueba</div>;
+  return (
+    <div>
+      <Cta copy={"Esto es una prueba"} />
+    </div>
+  );
 }
 
 export default App;
