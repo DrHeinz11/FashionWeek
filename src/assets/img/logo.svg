@@ -1,17 +1,17 @@
-<svg id="logo" xmlns="http://www.w3.org/2000/svg" width="333" height="192" viewBox="0 0 333 192">
-  <g id="Grupo_47" data-name="Grupo 47" transform="translate(300.307 104.55)">
-    <path id="Trazado_33" data-name="Trazado 33" d="M22.1,7c1.5,10.534,1.5,19.563,1.5,30.1s0,19.563-1.5,30.1c-1.5-10.534-1.5-19.563-1.5-30.1S20.6,16.029,22.1,7Z" transform="translate(-20.6 -7)" fill="#2d2d2d"/>
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" width="79" height="45" viewBox="0 0 79 45">
+  <g id="Grupo_47" data-name="Grupo 47" transform="translate(70.183 24.434)">
+    <path id="Trazado_33" data-name="Trazado 33" d="M20.952,7a47.133,47.133,0,0,1,.352,7.034,47.133,47.133,0,0,1-.352,7.034,47.133,47.133,0,0,1-.352-7.034A44.839,44.839,0,0,1,20.952,7Z" transform="translate(-20.6 -7)"/>
   </g>
-  <g id="Grupo_48" data-name="Grupo 48" transform="translate(271.715 133.142)">
-    <path id="Trazado_34" data-name="Trazado 34" d="M78.894,10.4c-10.534,1.5-19.563,1.5-30.1,1.5s-19.563,0-30.1-1.5C29.234,8.9,38.263,8.9,48.8,8.9S68.36,8.9,78.894,10.4Z" transform="translate(-18.7 -8.9)" fill="#2d2d2d"/>
+  <g id="Grupo_48" data-name="Grupo 48" transform="translate(63.501 31.116)">
+    <path id="Trazado_34" data-name="Trazado 34" d="M32.768,9.252a47.133,47.133,0,0,1-7.034.352A47.133,47.133,0,0,1,18.7,9.252,47.133,47.133,0,0,1,25.734,8.9,47.133,47.133,0,0,1,32.768,9.252Z" transform="translate(-18.7 -8.9)"/>
   </g>
-  <g id="Grupo_49" data-name="Grupo 49" transform="translate(286.763 119.598)">
-    <path id="Trazado_35" data-name="Trazado 35" d="M19.7,36.592A135.68,135.68,0,0,0,33.244,21.544,135.677,135.677,0,0,1,48.292,8,135.675,135.675,0,0,0,34.748,23.048,135.677,135.677,0,0,1,19.7,36.592Z" transform="translate(-19.7 -8)" fill="#2d2d2d"/>
+  <g id="Grupo_49" data-name="Grupo 49" transform="translate(67.018 27.951)">
+    <path id="Trazado_35" data-name="Trazado 35" d="M19.7,14.682a31.709,31.709,0,0,0,3.165-3.517A31.708,31.708,0,0,1,26.382,8a31.708,31.708,0,0,0-3.165,3.517A31.708,31.708,0,0,1,19.7,14.682Z" transform="translate(-19.7 -8)"/>
   </g>
-  <g id="Grupo_50" data-name="Grupo 50" transform="translate(286.763 119.598)">
-    <path id="Trazado_36" data-name="Trazado 36" d="M48.292,36.592A135.675,135.675,0,0,0,33.244,23.048,135.675,135.675,0,0,1,19.7,8,135.673,135.673,0,0,0,34.748,21.544C39.263,26.058,43.777,32.078,48.292,36.592Z" transform="translate(-19.7 -8)" fill="#2d2d2d"/>
+  <g id="Grupo_50" data-name="Grupo 50" transform="translate(67.018 27.951)">
+    <path id="Trazado_36" data-name="Trazado 36" d="M26.382,14.682a31.708,31.708,0,0,0-3.517-3.165A31.708,31.708,0,0,1,19.7,8a31.707,31.707,0,0,0,3.517,3.165C24.272,12.22,25.327,13.627,26.382,14.682Z" transform="translate(-19.7 -8)"/>
   </g>
-  <circle id="Elipse_10" data-name="Elipse 10" cx="3.01" cy="3.01" r="3.01" transform="translate(298.802 131.637)" fill="#2d2d2d" stroke="#575756" stroke-miterlimit="10" stroke-width="0.25"/>
+  <circle id="Elipse_10" data-name="Elipse 10" cx="0.703" cy="0.703" r="0.703" transform="translate(69.831 30.764)" stroke="#575756" stroke-miterlimit="10" stroke-width="0.25"/>
   <text id="Fashion._Week" data-name="Fashion.
-Week" transform="translate(0 73)" fill="#2d2d2d" font-size="89" font-family="Runalto"><tspan x="0" y="0">Fashion.</tspan><tspan x="0" y="93">Week</tspan></text>
+Week" transform="translate(0 17)" font-size="21" font-family="Runalto"><tspan x="0" y="0">Fashion.</tspan><tspan x="0" y="22">Week</tspan></text>
 </svg>

@@ -1,9 +1,10 @@
-import Cta from "./components/Cta";
+import Hero from "./container/header/hero/Hero";
+import { Stack } from "@chakra-ui/react";
 function App() {
   return (
-    <div>
-      <Cta copy={"Esto es una prueba"} />
-    </div>
+    <Stack maxW='1200px' margin='auto'>
+      <Hero />
+    </Stack>
   );
 }
 
