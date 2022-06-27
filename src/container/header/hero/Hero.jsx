@@ -4,14 +4,14 @@ import { Heading, Stack, Box } from "@chakra-ui/react";
 export default function Hero() {
   return (
     <Stack>
-      <Box>
+      <Box display="flex" alignItems="center" flexDirection="column">
         <Heading>
+          <Circles />
           Explore more fashion and collection <Star />
         </Heading>
-        <Circles />
-        <Cta copy='Show more' />
+        <Cta copy="Show more" />
       </Box>
-      <GaleryHero/>
+      <GaleryHero />
     </Stack>
   );
 }

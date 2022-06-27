@@ -10,16 +10,27 @@ function GaleryHero() {
         <Image
           src={Img2}
           height="80%"
-          width={"229px"}
+          width={"290px"}
           objectFit="cover"
-          margin="auto" position="relative" top={'50px'}
+          margin="auto"
+          position="relative"
+          top={"50px"}
         />
       </GridItem>
       <GridItem w="100%" h="100%">
         <Image src={Img1} />
       </GridItem>
       <GridItem w="100%" h="100%">
-        <Image src={Img3} height="80%" margin="auto" position="relative" top={'50px'} />
+        <Image
+          src={Img3}
+          objectFit='cover'
+          objectPosition={'top'}
+          width={'290px'}
+          height="80%"
+          margin="auto"
+          position="relative"
+          top={"50px"}
+        />
       </GridItem>
     </Grid>
   );

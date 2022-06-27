@@ -1,8 +1,11 @@
 import { Stack, Text, Box } from "@chakra-ui/react";
-import Logo from "./components/Logo";
+import { Logo } from "../../../components/export";
+
 const Navbar = () => {
   return (
     <Stack
+    zIndex={'999'}
+    bg={'white'}
       flexDirection={"row"}
       w={"100%"}
       maxW={"1200px"}
