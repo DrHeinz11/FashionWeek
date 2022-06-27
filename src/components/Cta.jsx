@@ -7,7 +7,8 @@ const Cta = ({ copy }) => {
       borderRadius={"3xl"}
       textTransform={"capitalize"}
       textAlign="center"
-      py={"3xl"}
+      w={'3xs'}
+      fontSize='sm'
       _hover={{}}
     >
       {copy}

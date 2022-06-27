@@ -20,26 +20,26 @@ const Navbar = () => {
         <Logo />
       </Box>
       <Stack flexDirection={"row"} alignItems={"center"} gap={"5rem"}>
-        <Text
+        <Text fontSize="lg"
           marginTop={".5rem"}
           borderBottom={"1px solid transparent"}
           _hover={{ borderBottom: "1px solid black" }}
         >
           Home
         </Text>
-        <Text
+        <Text fontSize="lg"
           borderBottom={"1px solid transparent"}
           _hover={{ borderBottom: "1px solid black" }}
         >
           Collection
         </Text>
-        <Text
+        <Text fontSize="lg"
           borderBottom={"1px solid transparent"}
           _hover={{ borderBottom: "1px solid black" }}
         >
           Product
         </Text>
-        <Text
+        <Text fontSize="lg"
           borderBottom={"1px solid transparent"}
           _hover={{ borderBottom: "1px solid black" }}
         >
