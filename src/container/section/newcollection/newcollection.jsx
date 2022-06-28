@@ -10,7 +10,7 @@ function newcollection() {
     <Box margin="auto">
       <Grid
         maxWidth={"1000px"}
-        marginBlock={"50px"}
+        marginBlock={{ lg: "50px", base: "0" }}
         marginInline={"auto"}
         gridTemplateAreas={{
           lg: `'Img3 Copy Img2'

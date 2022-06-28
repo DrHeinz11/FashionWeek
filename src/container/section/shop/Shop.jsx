@@ -7,7 +7,7 @@ export default function Shop() {
         flexDirection="column"
         gap={"15px"}
         maxWidth="1000px"
-        margin="50px auto"
+        margin={{ lg: "50px auto", base: "0 auto" }}
       >
         <Box display="flex" gap="15px" flexDirection="column">
           <Text textAlign="center" fontWeight="300" textTransform="uppercase">
