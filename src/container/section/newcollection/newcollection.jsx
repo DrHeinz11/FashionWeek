@@ -51,8 +51,8 @@ function newcollection() {
           <Image src={Img2} />
         </GridItem>
 
-        <GridItem area={"Img3"}>
-          <Image src={Img3} />
+        <GridItem area={"Img3"} height="100%">
+          <Image src={Img3} height="100%" objectFit="cover" />
         </GridItem>
       </Grid>
     </Box>
