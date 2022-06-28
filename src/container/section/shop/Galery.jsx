@@ -5,6 +5,7 @@ import Img3 from "./newcollection-1-3.png";
 import Img4 from "./newcollection-2-1.png";
 import Img5 from "./newcollection-2-2.png";
 import Img6 from "./newcollection-2-3.png";
+import Card from "./Card";
 import React from "react";
 
 export default function Galery() {
@@ -23,10 +24,17 @@ export default function Galery() {
 "Img5 Img2"`,
       }}
       gridTemplateRows={{
-        lg: "repeat(2,.5fr) repeat(3, 0.5fr)",
+        lg: "repeat(2,.5fr) auto .75fr .5fr",
         base: "repeat(2, .5fr 0.5fr) .5fr",
       }}
     >
+      <GridItem
+        display={{lg: "block",base: "none" }}
+        height="fit-content"
+        gridArea="Card"
+      >
+        <Card />
+      </GridItem>
       <GridItem gridArea="Img1">
         <Image src={Img1} h="100%" objectFit="cover" />
       </GridItem>
