@@ -1,6 +1,5 @@
 import { Grid, GridItem, Text, Heading, Image, Box } from "@chakra-ui/react";
 import Cta from "../../../components/Cta";
-import Orbit from "../../../components/Orbit";
 import Img1 from "./mina-collection1.png";
 import Img2 from "./mina-collection2.png";
 import Img3 from "./mina-collection3.png";
