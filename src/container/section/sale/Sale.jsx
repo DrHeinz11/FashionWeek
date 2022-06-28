@@ -16,7 +16,7 @@ export default function Sale() {
   return (
     <Box margin={"auto"}>
       <Grid
-        maxW="800px"
+        maxW="1000px"
         templateColumns={"repeat(2,1fr)"}
         templateRows={"2,1fr"}
         gap="15px"
