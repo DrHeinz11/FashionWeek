@@ -4,7 +4,7 @@ import Img1 from "./mina-collection1.png";
 import Img2 from "./mina-collection2.png";
 import Img3 from "./mina-collection3.png";
 
-function Newcollection() {
+function NewCollection() {
   return (
     <Box margin="auto">
       <Grid
@@ -58,4 +58,4 @@ function Newcollection() {
   );
 }
 
-export default Newcollection;
+export default NewCollection;
